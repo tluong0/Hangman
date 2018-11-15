@@ -1,0 +1,8 @@
+java
+awesome
+bad
+good
+love
+hate
+I
+you
